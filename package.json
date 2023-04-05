@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/bsanluz/clean-api#readme",
   "devDependencies": {
-    "git-commit-msg-linter": "^4.9.4"
+    "@types/node": "^18.15.11",
+    "git-commit-msg-linter": "^4.9.4",
+    "typescript": "^5.0.3"
   }
 }
